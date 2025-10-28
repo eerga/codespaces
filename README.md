@@ -1,0 +1,1 @@
+Quick way to launch a machine on codespaces
